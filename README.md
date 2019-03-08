@@ -6,3 +6,5 @@ Sometime Led are very bright and appear white in camera regardless of the color 
 this script solve the above issue.
 
 Made for Eyantra 2018-19 robotics competetion.
+
+Video Link:- https://youtu.be/EHh3PxsGnm0
